@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://gdsc-aissmsioit.github.io/</loc> </url>
+<url> <loc>https://gdsc-aissmsioit.github.io/</loc> </url>
+<url> <loc>https://gdsc-aissmsioit.github.io/events</loc> </url>
+<url> <loc>https://gdsc-aissmsioit.github.io/events/idea/:popup</loc> </url>
+<url> <loc>https://gdsc-aissmsioit.github.io/events/:id</loc> </url>
+<url> <loc>https://gdsc-aissmsioit.github.io/workshops/:id</loc> </url>
+<url> <loc>https://gdsc-aissmsioit.github.io/blogs</loc> </url>
+<url> <loc>https://gdsc-aissmsioit.github.io/blogs/:id</loc> </url>
+<url> <loc>https://gdsc-aissmsioit.github.io/blogs/idea/:popup</loc> </url>
+<url> <loc>https://gdsc-aissmsioit.github.io/team</loc> </url>
+<url> <loc>https://gdsc-aissmsioit.github.io/team/:id</loc> </url>
+<url> <loc>https://gdsc-aissmsioit.github.io/about</loc> </url>
+<url> <loc>https://gdsc-aissmsioit.github.io/getintouch</loc> </url>
+<url> <loc>https://gdsc-aissmsioit.github.io/*</loc> </url>
+</urlset>

@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.86996a0e.css",
+    "main.js": "/static/js/main.c7d9ab4b.js",
+    "static/js/787.c0d5fc75.chunk.js": "/static/js/787.c0d5fc75.chunk.js",
+    "static/media/Home.gif": "/static/media/Home.e6453183cd7137474a89.gif",
+    "static/media/about.gif": "/static/media/about.7eea17718da8393e0f87.gif",
+    "static/media/GoogleSans-Regular.svg": "/static/media/GoogleSans-Regular.0799d6a6a976d9c1e405.svg",
+    "static/media/team2.jpg": "/static/media/team2.7a7b5bcedbcea56ca7ef.jpg",
+    "static/media/GoogleSans-Regular.eot": "/static/media/GoogleSans-Regular.3a46696b78afa7117bf1.eot",
+    "static/media/GoogleSans-Regular.ttf": "/static/media/GoogleSans-Regular.3136b8568e68a45ffa11.ttf",
+    "static/media/about-us.jpeg": "/static/media/about-us.8d3f27c0bea7cc45db7f.jpeg",
+    "static/media/gdsc_logo.png": "/static/media/gdsc_logo.a55231a691a1c20c3606.png",
+    "static/media/GoogleSans-Regular.woff": "/static/media/GoogleSans-Regular.d822df7a3f9a23640e87.woff",
+    "static/media/GoogleSans-Regular.woff2": "/static/media/GoogleSans-Regular.8a085c1ee088a9571a3f.woff2",
+    "static/media/logo.png": "/static/media/logo.fe77cf292bc1adc237da.png",
+    "static/media/logo.jpg": "/static/media/logo.4caae11dc1d366226e2c.jpg",
+    "index.html": "/index.html",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "main.86996a0e.css.map": "/static/css/main.86996a0e.css.map",
+    "main.c7d9ab4b.js.map": "/static/js/main.c7d9ab4b.js.map",
+    "787.c0d5fc75.chunk.js.map": "/static/js/787.c0d5fc75.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86996a0e.css",
+    "static/js/main.c7d9ab4b.js"
+  ]
+}
